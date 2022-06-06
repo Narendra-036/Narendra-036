@@ -31,7 +31,7 @@
 <img src="sourcefiles/images/header_1.png">
 <h2 align="center"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px">WHAT I HAVE COMPLETED<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
 
-- 👉 PROGRAMMING IN PYTHON <img src="sourcefiles/images/logos.png" align="right">
+- 👉 PROGRAMMING IN PYTHON <img src="sourcefiles/images/logos-removebg-preview.png" align="right">
 - 👉 PROGRAMMING IN JAVA
 - 👉 PROGRAMMING IN C++
 - 👉 HTML
