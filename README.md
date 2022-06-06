@@ -1,3 +1,4 @@
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Narendrakumarreddy-Kadiri?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Narendrakumarreddy-Kadiri?style=social"> &nbsp;&nbsp;
 
 
 <p align="center">
@@ -15,4 +16,14 @@
 -->
 
   <h2 align="left">ABOUT MYSELF <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></h2>
- 
+
+
+- :credit_card: My self ***Narendra***, an ordinary student
+- :school: Currently I am studing Btech in Artificial Intelligence at **Chandigarh Group Of Colleges, Mohali**
+- :school: In past I have completed my *Diploma in Mechanical Engineering* at ***Loyola Polytechnic [YSRR]*** in Pulivendla.
+- :sweat_smile: Don't ask me why you have changed the stream :sweat_smile: 
+- :sunglasses: Proud to be an ENGINEER 👍
+- :ok_hand: I am good at making new friends 😙
+- :point_right: Currently I am focusing on my career. 👈
+- :earth_asia: My ultimate goal is to visit every place in the world. *Which may not be completed* 😓
+- :books: Actually, I don't use any books because everything is available on the ***Internet***.:sunglasses:
