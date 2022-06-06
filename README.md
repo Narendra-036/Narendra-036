@@ -24,16 +24,15 @@
 <p align="center">
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Narendrakumarreddy-Kadiri&theme=dark&hide_border=true"/>
-  <
+  
 </p>
 
 
 *𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒*
 <br/>
 <br/>
-<a href="https://developer.android.com/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code></a>
-<a href="https://kotlinlang.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code></a>
-<a href="https://java.com/"><code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code></a>
+
+<a href="https://java.com/"><code><img height="40" width="40" src="https://www.google.com/search?q=java+pic&sxsrf=ALiCzsZZB3P9Ee-EitcrPcJtqiOlOq4Zqw:1654515177905&tbm=isch&source=iu&ictx=1&vet=1&fir=6YsbFDSVEi3VJM%252Cty8cA0ylPEPayM%252C_%253B6S24SrM0wk4hHM%252CFu1Xsa207CQBzM%252C_%253BzQLImnnH70CSHM%252CToB8tIqOU4fqPM%252C_%253B_osDBNVF8zTa_M%252CJag5PvOnY22NXM%252C_%253BEUgyasLl0LMwdM%252C4oowPvgId1Vc6M%252C_%253B_p5mQ61uh6qzGM%252CUs46yPDB9MhtDM%252C_%253BNQe8uj38BuyzrM%252C9hEAs3iGrekizM%252C_%253Bqb3HA7k5eC2uqM%252CFu1Xsa207CQBzM%252C_%253BATU2j-s8TSiQrM%252C2k9XqVQAlfRNEM%252C_%253BFYnTv7BcbTAaWM%252CKVjgJ46W8b23VM%252C_%253BJdcrxLmzKuWcRM%252COhQk3OfKxVU9VM%252C_%253B3yEm8ey2ceZlgM%252CsfnEyP4_GTqTNM%252C_%253BRnyd8T8FYQqEgM%252CYLuSSwp_RdO8XM%252C_%253BjIAuYnQNvH1rkM%252C8QAh8wZw9R8inM%252C_&usg=AI4_-kR79ZvRYE8uJEnU4OZc2f_MQMIj4w&sa=X&ved=2ahUKEwiKk9Gr3Zj4AhWISGwGHXteB6UQ9QF6BAgHEAE#imgrc=3yEm8ey2ceZlgM"></code></a>
 <a href="https://python.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 <a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code></a>
 <a href="https://github.com"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code></a>
