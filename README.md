@@ -49,3 +49,13 @@
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">MY CODING STATUS<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
+<br>
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=algolia" alt="Narendrakumarreddy-Kadiri-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=algolia" alt="Narendrakumarreddy-Kadiri-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Narendrakumarreddy-Kadiri&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Narendrakumarreddy-Kadiri&theme=react-dark"/>
+  
+</div>
