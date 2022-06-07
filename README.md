@@ -42,6 +42,7 @@
 <br>
 
 
+
 - ⭐ SQL <img src="sourcefiles/images/coding giphy.webp" align="right">
 - ⭐ JAVASCRIPT
 - ⭐ BACKEND DEVELOPMENT
@@ -51,12 +52,18 @@
 
 <br>
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=algolia" alt="Narendrakumarreddy-Kadiri-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=algolia" alt="Narendrakumarreddy-Kadiri-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=dark" alt="Narendrakumarreddy-Kadiri-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=dark" alt="Narendrakumarreddy-Kadiri-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Narendrakumarreddy-Kadiri&theme=react&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Narendrakumarreddy-Kadiri&theme=dark&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=Narendrakumarreddy-Kadiri&theme=react-dark"/>
   
 </div>
+
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">
+CONNECT WITH ME</h2>
+<br>
+
+
 
