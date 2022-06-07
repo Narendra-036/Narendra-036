@@ -15,7 +15,7 @@
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">
 -->
 
-  <h2 align="left">ABOUT MYSELF <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></h2>
+  <h2 align="center">ABOUT MYSELF <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></h2>
 
 
 - :credit_card: My self ***Narendra***, an ordinary student
@@ -40,3 +40,12 @@
 
 <h2 align="center"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px">WHAT I WANT TO COMPLETE<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
 <br>
+
+
+- ⭐ SQL <img src="sourcefiles/images/coding giphy.webp" align="right">
+- ⭐ JAVASCRIPT
+- ⭐ BACKEND DEVELOPMENT
+- ⭐ .NET
+<br>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">MY CODING STATUS<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+
