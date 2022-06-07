@@ -55,7 +55,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=algolia" alt="Narendrakumarreddy-Kadiri-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Narendrakumarreddy-Kadiri&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Narendrakumarreddy-Kadiri&theme=react&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=Narendrakumarreddy-Kadiri&theme=react-dark"/>
   
 </div>
