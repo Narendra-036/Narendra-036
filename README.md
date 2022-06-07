@@ -67,7 +67,7 @@ CONNECT WITH ME<img src='https://raw.githubusercontent.com/ShahriarShafin/Shahri
 <h3 align="center">SOCIAL MEDIA</h4>
 <div aign="center">
   <p align="center">
-  <a href="https://www.facebook.com/narendrakumar.reddy.754" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/fb1.webp" width="60px" height="60px"></a><a href="https://www.instagram.com/_.mr__reddy/" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/instalogo2.webp" width="60px" height="60px"></a><a href="https://l.instagram.com/?u=https%3A%2F%2Fbit.ly%2F3sThpMe&e=ATOooKAvCmB7-dOtPSIaUFNA34n_oa4hvQdmG-2o0lK3vT_wrlOkQ0vpjz3y_nSKq96OUGwvpUEBfVjsz21rsWQ&s=1" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/whatsapp logo.webp" width="60px" height="60px"></a><a href="https://www.snapchat.com/add/just_narendra?share_id=LM61Y7SnPYM&locale=en-GB" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/sc.webp" width="60px" height="60px"></a>
+  <a href="https://www.facebook.com/narendrakumar.reddy.754" target="_blank" ><img src="sourcefiles/images/fb1.webp" width="60px" height="60px"></a><a href="https://www.instagram.com/_.mr__reddy/" target="_blank" ><img src="sourcefiles/images/instalogo2.webp" width="60px" height="60px"></a><a href="https://api.whatsapp.com/send?phone=+918790729468&text=hloboss" target="_blank"><img src="sourcefiles/images/whatsapp logo.webp" width="60px" height="60px"></a><a href="https://www.snapchat.com/add/just_narendra?share_id=LM61Y7SnPYM&locale=en-GB" target="_blank"><img src="sourcefiles/images/sc.webp" width="60px" height="60px"></a>
   </p>
 </div>
 <br>
