@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Narendrakumarreddy-Kadiri?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Narendrakumarreddy-Kadiri?style=social"> &nbsp;&nbsp;
+<a href="https://github.com/Narendrakumarreddy-Kadiri?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Narendrakumarreddy-Kadiri?style=social"></a> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Narendrakumarreddy-Kadiri?style=social"> &nbsp;&nbsp;
 
 
 <p align="center">
