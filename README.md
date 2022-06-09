@@ -14,11 +14,14 @@
 <!--contact symbol
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">
 -->
+<br>
 
-  <h2 align="center">ABOUT MYSELF <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></h2>
+
+  <h2 align="center">ABOUT MYSELF <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></h2><br>
+  
 
 <br>
-<br>
+
 
 - :credit_card: My self ***Narendra***, an ordinary student
 - :school: Currently I am studing Btech in Artificial Intelligence at **Chandigarh Group Of Colleges, Mohali**
