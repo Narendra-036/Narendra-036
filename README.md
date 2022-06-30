@@ -103,7 +103,7 @@
 <h3 align="center">CODING PLATFORMS</h3>
 <p align="center">
   <a href="https://www.codechef.com/users/narendrakadiri" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/codechef.png" width="60px" height="60px"></a>
-  <a href="https://leetcode.com/narendraknr12345/" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/leetcode.png" width="60px" height="60px"></a>
+  <a href="https://leetcode.com/narendra_036/" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/leetcode.png" width="60px" height="60px"></a>
   <a href="https://auth.geeksforgeeks.org/user/narendraknr12345/profile" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/gfg.png" width="60px" height="60px"></a>
 </p>
 
