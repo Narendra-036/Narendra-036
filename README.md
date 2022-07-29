@@ -105,5 +105,6 @@
   <a href="https://www.codechef.com/users/narendrakadiri" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/codechef.png" width="60px" height="60px"></a>
   <a href="https://leetcode.com/narendra_036/" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/leetcode.png" width="60px" height="60px"></a>
   <a href="https://auth.geeksforgeeks.org/user/narendraknr12345/profile" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/gfg.png" width="60px" height="60px"></a>
+  <a href="https://www.codingninjas.com/codestudio/profile/52e1d1f6-2eaa-4c08-9121-4f7eac696dd3"><img src="sourcefiles/images/cn-removebg-preview.png" width="60px" height="60px"></a>
 </p>
 
