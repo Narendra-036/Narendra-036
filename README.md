@@ -94,7 +94,7 @@
 <h3 align="center">SOCIAL MEDIA</h4>
 <div aign="center">
   <p align="center">
-  <a href="https://www.facebook.com/narendrakumar.reddy.754" target="_blank" ><img src="sourcefiles/images/fb1.webp" width="60px" height="60px"></a><a href="https://www.instagram.com/_.mr__reddy/" target="_blank" ><img src="sourcefiles/images/instalogo2.webp" width="60px" height="60px"></a><a href="https://api.whatsapp.com/send?phone=+918790729468&text=hloboss" target="_blank"><img src="sourcefiles/images/whatsapp logo.webp" width="60px" height="60px"></a><a href="https://www.snapchat.com/add/just_narendra?share_id=LM61Y7SnPYM&locale=en-GB" target="_blank"><img src="sourcefiles/images/sc.webp" width="60px" height="60px"></a>
+  <a href="https://www.facebook.com/narendrakumar.reddy.754" target="_blank" ><img src="sourcefiles/images/fb1.webp" width="60px" height="60px"></a><a href="https://www.instagram.com/_.mr__reddy/" target="_blank" ><img src="sourcefiles/images/instalogo2.webp" width="60px" height="60px"></a><a href="https://api.whatsapp.com/send?phone=+918790729468&text=hloboss" target="_blank"><img src="sourcefiles/images/whatsapp logo.webp" width="60px" height="60px"></a><a href="https://www.snapchat.com/add/just_narendra?share_id=LM61Y7SnPYM&locale=en-GB" target="_blank"><img src="sourcefiles/images/sc.webp" width="55px" height="50px"></a>
   <a href="https://www.linkedin.com/in/narendra-kumar-reddy-a60928224/"><img src="sourcefiles/images/li.webp" width="60px"' height="60px"></a>
   </p>
 </div>
