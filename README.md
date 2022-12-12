@@ -86,6 +86,12 @@
   
 </div>
 <br>
+<h2 align="center"> LeetCode Status Card </h2>
+<p align="center">
+  <a href="https://leetcode.com/narendra_036" target="_blank">
+    <img width=60%h height=80% src="https://leetcode.card.workers.dev/?username=narendra_036&theme=dark&font=source_code_pro&border_radius=10"/>
+  </a>
+
 <br>
 <br>
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">
