@@ -78,13 +78,13 @@
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Narendrakumarreddy-Kadiri&theme=dark&background=0d1117&hide_border=true" />
   <br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Narendrakumarreddy-Kadiri&theme=react-dark"/>
   
-</div>
+</div> -->
 <br>
 <h2 align="center"> LeetCode Status Card </h2>
 <p align="center">
