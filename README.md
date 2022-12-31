@@ -119,7 +119,7 @@
 <br>
 
 <p align="center">
-<img alt="Snake GIF" src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/output/github-contribution-grid-snake.svg">
+<img alt="Snake GIF" src="https://github.com/Narendra-036/Narendra-036/blob/output/github-contribution-grid-snake.svg">
 </p>
 
     
