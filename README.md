@@ -1,4 +1,4 @@
-<a href="https://github.com/Narendrakumarreddy-Kadiri?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Narendrakumarreddy-Kadiri?style=social"></a> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Narendrakumarreddy-Kadiri?style=social"> &nbsp;&nbsp;
+<a href="https://github.com/Narendra-036?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Narendra-036?style=social"></a> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Narendra-036?style=social"> &nbsp;&nbsp;
 
 
 <p align="center">
@@ -72,17 +72,17 @@
 <br>
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=dark" alt="Narendrakumarreddy-Kadiri-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Narendrakumarreddy-Kadiri&layout=compact&show_icon=true&theme=dark" alt="Narendrakumarreddy-Kadiri-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra-036&layout=compact&show_icon=true&theme=dark" alt="Narendra-036-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Narendra-036&layout=compact&show_icon=true&theme=dark" alt="Narendra-036-stats"/>
 </div>
 <br>
 <br>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Narendrakumarreddy-Kadiri&theme=dark&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Narendra-036&theme=dark&background=0d1117&hide_border=true" />
   <br>
   <br>
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Narendrakumarreddy-Kadiri&theme=react-dark"/> -->
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Narendra-036&theme=react-dark"/> -->
   
 </div>
 <br>
