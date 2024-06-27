@@ -16,6 +16,12 @@
 -->
 <br>
 
+<div align="center">
+  <a style="background-color: red;text-decoration:none;padding:30px;"  href="https://mr-narendra.live">
+      Open Profile
+  </a>
+</div>
+
 
   <h2 align="center">ABOUT MYSELF <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></h2><br>
   
